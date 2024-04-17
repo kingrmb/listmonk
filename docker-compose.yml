@@ -21,7 +21,7 @@ x-db-defaults: &db-defaults
   networks:
     - listmonk
   environment:
-    - POSTGRES_PASSWORD=listmonk
+    - POSTGRES_PASSWORD=lzIqj33itPZr9
     - POSTGRES_USER=listmonk
     - POSTGRES_DB=listmonk
   restart: unless-stopped

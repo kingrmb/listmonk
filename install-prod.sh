@@ -140,8 +140,8 @@ show_output(){
 
 check_dependencies
 check_existing_db_volume
-get_config
-get_containers
+#get_config
+#get_containers
 modify_config
 run_migrations
 start_services
